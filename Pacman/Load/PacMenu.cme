@@ -1,0 +1,11 @@
+﻿Load=[PacMenu]
+
+Load=[Axis][Position][Font][Animation]
+[2][200 200][PacFont][Fade]
+
+Load=[Item][LinkType][LinkID]
+[New Game][NewGame][MainGame]
+[High Score][HighScore][HighScoreScreen]
+[Exit][Exit][ExitScreen]
+
+EndLoad=[PacMenu]
